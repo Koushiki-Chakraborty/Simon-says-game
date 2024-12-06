@@ -1,0 +1,70 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.score-board{
+    font-size: 1.5em;
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid white;
+    margin: 2rem;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.pink{
+    background-color: #d95980;
+    
+    transition: all 0.3s;
+}
+
+.pink:hover{
+    transform: scale(1.05);
+}
+
+.yellow{
+    background-color:#f99b45;
+    
+    transition: all 0.3s;
+}
+
+.yellow:hover{
+    transform: scale(1.05);
+}
+
+.green{
+    background-color: #63aac0;
+    
+    transition: all 0.3s;
+}
+
+.green:hover{
+    transform: scale(1.05); 
+}
+
+.purple{
+    background-color: #819ff9;
+    
+    transition: all 0.3s;
+}
+
+.purple:hover{
+    transform: scale(1.05); 
+}
+
+.flash{
+    background-color: white;
+}
+
+.userflash{
+    background-color: green;
+}
