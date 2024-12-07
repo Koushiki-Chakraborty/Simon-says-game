@@ -11,7 +11,7 @@ The Simon Says Game tests your memory by presenting a sequence of lights that yo
 4. End Game: The game ends when you click in the wrong order. Try to beat your previous record!
 It’s a simple yet addictive game perfect for players of all ages.
 
-##🚀Features
+## 🚀Features
 1. Interactive Gameplay: Vibrant colors and smooth animations for a seamless user experience.
 2. Dynamic Sequencing: Each round generates a new random sequence for a unique challenge every time.
 3. Responsive Design: Fully functional across different devices and screen sizes.
