@@ -38,7 +38,7 @@ Here are a few features I plan to add in the future:
 
 1. Multiplayer Mode: Allow players to compete with friends.
 2. Themed Modes: Introduce customizable designs and sound effects for a personalized experience.
-Enjoy the game and have fun! If you have any suggestions or feedback, feel free to open an issue or submit a pull request. 😊
+Enjoy the game and have fun! If you have any suggestions or feedback, feel free to open an issue or submit a pull request. 
 
 ##  Repository Structure
  Simon Says Game
